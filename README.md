@@ -1,18 +1,7 @@
-<table>
-  <tr style="border: none;">
-    <td style="border: none;">
-      <img
-        src="https://github-readme-stats.vercel.app/api?username=manyuanrong&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true"
-      />
-    </td>
-    <td style="border: none;">
-      <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=manyuanrong&layout=compact"
-      />
-    </td>
-  </tr>
-</table>
+<img src="https://github-readme-stats.vercel.app/api?username=manyuanrong&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true" />
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manyuanrong&layout=compact" />
+    
 I'm a full stack developer
 
 Main concern:
