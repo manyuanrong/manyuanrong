@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Enok</h1>
 <h3 align="center">I'm a full stack developer</h3>
+<h3 align="center">I am looking for a remote job, if there is a suitable one and you think I am good enough, please contact me!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manyuanrong&label=Profile%20views&color=0e75b6&style=flat" alt="manyuanrong" /> </p>
 
